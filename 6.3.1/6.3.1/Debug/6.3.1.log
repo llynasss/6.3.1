@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Користува\source\repos\ап\6.3.1\6.3.1\Source.cpp(85,21): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Користува\source\repos\ап\6.3.1\6.3.1\Source.cpp(183): message : see reference to function template instantiation 'bool check_t<bool,int*>(D,T)' being compiled
+          with
+          [
+              D=int *,
+              T=bool
+          ]
+  6.3.1.vcxproj -> C:\Users\Користува\source\repos\ап\6.3.1\Debug\6.3.1.exe

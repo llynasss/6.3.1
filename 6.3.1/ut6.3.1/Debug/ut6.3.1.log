@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ut6.3.1.cpp
+C:\Users\Користува\source\repos\ап\6.3.1\6.3.1\Source.cpp(85,21): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Користува\source\repos\ап\6.3.1\6.3.1\Source.cpp(183): message : see reference to function template instantiation 'bool check_t<bool,int*>(D,T)' being compiled
+          with
+          [
+              D=int *,
+              T=bool
+          ]
+     Creating library C:\Users\Користува\source\repos\ап\6.3.1\Debug\ut6.3.1.lib and object C:\Users\Користува\source\repos\ап\6.3.1\Debug\ut6.3.1.exp
+  ut6.3.1.vcxproj -> C:\Users\Користува\source\repos\ап\6.3.1\Debug\ut6.3.1.dll
